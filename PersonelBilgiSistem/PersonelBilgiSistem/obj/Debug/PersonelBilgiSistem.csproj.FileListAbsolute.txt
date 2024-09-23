@@ -1,0 +1,11 @@
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\bin\Debug\PersonelBilgiSistem.exe.config
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\bin\Debug\PersonelBilgiSistem.exe
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\bin\Debug\PersonelBilgiSistem.pdb
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.Form1.resources
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.Properties.Resources.resources
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.exe
+C:\Users\Mert\source\repos\PersonelBilgiSistem\PersonelBilgiSistem\obj\Debug\PersonelBilgiSistem.pdb
